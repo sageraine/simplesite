@@ -15,12 +15,12 @@ body {
 }
 
 a {
-  color: #2dc997;
+  color: #ff85c0;
   text-decoration: none;
 }
 
 a:hover, a:active, a:focus {
-  color: #2dca98;
+  color: #ff85c0;
   outline: none;
   text-decoration: none;
 }
