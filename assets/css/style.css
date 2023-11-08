@@ -635,13 +635,13 @@ body {
 }
 #services .box:hover .icon {
   background: #fff;
-  border: 2px solid #2dc997;
+  border: 2px solid #ff85c0;
 }
 #services .box:hover .icon i {
-  color: #2dc997;
+  color: #ff85c0;
 }
 #services .box:hover .icon a {
-  color: #2dc997;
+  color: #ff85c0;
 }
 #services .title {
   font-weight: 700;
