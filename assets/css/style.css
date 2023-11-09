@@ -480,8 +480,8 @@ section {
   padding: 80px 0;
 }
 #about .about-container .background {
-  background-size: 1000px;
-  background: url(https://github.com/sageraine/simplesite/blob/main/assets/img/sage%20about%20photo.jpg?raw=true) bottom no-repeat; /* this sets the image and properties on the about page */
+  background-size: 2000px;
+  background: url(https://github.com/sageraine/simplesite/blob/main/assets/img/sage%20about%20photo.jpg?raw=true) bottom center no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
