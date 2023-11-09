@@ -481,9 +481,7 @@ section {
 }
 #about .about-container .background {
   background-size: cover;
-  background: url(https://github.com/sageraine/simplesite/blob/main/assets/img/sage%20about%20photo.jpg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
-  height: 100%; /* Adjust the height as needed */
-  width: 100%;  /* Adjust the width as needed */
+  background: url(https://github.com/sageraine/simplesite/blob/main/assets/img/sage%20about%20photo.jpg?raw=true) no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
