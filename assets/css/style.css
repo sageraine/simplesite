@@ -482,6 +482,8 @@ section {
 #about .about-container .background {
   background-size: cover;
   background: url(https://github.com/sageraine/simplesite/blob/main/assets/img/sage%20about%20photo.jpg?raw=true) center bottom; /* this sets the image and properties on the about page */
+  height: 100%
+  width: 100%
   margin-bottom: 0px;
 }
 #about .about-container .content {
