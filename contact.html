@@ -130,21 +130,7 @@
                 </div>
                 <div class="text-center"><button type="submit">Send Message</button></div>
               </form>
-            </script>
-            document.addEventListener('DOMContentLoaded', function() {
-              var sendMessageButton = document.querySelector('button[type="submit"]');
-              if (sendMessageButton) {
-                sendMessageButton.addEventListener('click', function() {
-                  // Push an event to the data layer
-                  window.dataLayer = window.dataLayer || [];
-                  window.dataLayer.push({
-                    'event': 'sendMessageButtonClick' // Custom event name
-                  });
-                });
-              }
-            });
-            
-            
+            </div>
           </div>
 
         </div>
